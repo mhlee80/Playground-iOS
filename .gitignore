@@ -1,0 +1,6 @@
+xcuserdata/
+Pods/
+.DS_Store
+Playground.app.dSYM.zip
+Playground.ipa
+Playground.xcodeproj/xcuserdata/
